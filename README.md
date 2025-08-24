@@ -18,7 +18,7 @@ A modern and responsive Password Generator web app built using HTML, CSS, and Ja
 
 ## 🚀 Live Demo
 
-> 🔗 [Live Demo](#)  
+> 🔗 [Live Demo](https://vgvvlsapswdgenz.netlify.app/)  
 <!-- Replace `#` with your actual live site URL if hosted -->
 
 ---
